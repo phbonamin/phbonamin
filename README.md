@@ -1,4 +1,5 @@
-<h2 align="center">Olá! Meu nome é Pedro Bonamin e esse é meu repósitório com projetos de Data Science </h2>
+<h2 align="center">Olá!Meu nome é Pedro Bonamin e esse é meu repósitório com projetos de Data Science </h2>
+<h3 align="center">futuramente também de Machine Learmoimg e Bioinformática</h3>
 
 - 🔭 Projeto Atual: [Analise de mortalidade de 1990 a 2019](https://github.com/phbonamin/Analise_de_Mortalidade_Mundial-1990-2019-)
 
@@ -6,8 +7,10 @@
 
 - 📫 Contato: **´pc-bonamin@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-bonamin-167407206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-bonamin-167407206/" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
