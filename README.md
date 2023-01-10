@@ -1,7 +1,10 @@
 <h2 align="center">Olá!Meu nome é Pedro Bonamin e esse é meu repósitório com projetos de Data Science </h2>
 
-
+- 👈 Projeto Anterior: [Analise de mortalidade de 1990 a 2019](https://github.com/phbonamin/Analise_de_Mortalidade_Mundial-1990-2019-)
+- 
 - 🔭 Projeto Atual: [Analise de mortalidade de 1990 a 2019](https://github.com/phbonamin/Analise_de_Mortalidade_Mundial-1990-2019-)
+
+
 
 - 🌱 Estou estudando **Análise de dados(Python e R) e SQL**
 
