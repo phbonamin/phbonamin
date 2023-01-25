@@ -2,7 +2,7 @@
 
 - 👈 Projeto Anterior: [Analise do numero total de mortes de 1990 a 2019](https://github.com/phbonamin/EDA_Analise_Total_de_Mortes_Mundial-1990-2019)
 
-- 🔭 Projeto Atual: [Analise do Sono em Mamíferos](https://github.com/phbonamin/EDA_Sono_em_Mamiferos)
+- 🔭 Projeto Atual: [Analise do Sono em Mamíferos(DROPPED)](https://github.com/phbonamin/EDA_Sono_em_Mamiferos)
 
 - 🌱 Estou estudando **Análise de dados(Python e R) e SQL**
 
