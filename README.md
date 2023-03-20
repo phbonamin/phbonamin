@@ -6,7 +6,7 @@
 
 - 🌱 Estou estudando **Análise de dados(Python e R) e SQL**
 
-- 📫 Contato: **pc-bonamin@hotmail.com**
+- 📫 Contato: **phbonamin@gmail.com**
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
