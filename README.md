@@ -1,10 +1,10 @@
 <h2 align="center">Olá!Meu nome é Pedro Bonamin e esse é meu repósitório com projetos de Data Science </h2>
 
-- 👈 Projeto Anterior: [Analise do numero total de mortes de 1990 a 2019](https://github.com/phbonamin/EDA_Analise_Total_de_Mortes_Mundial-1990-2019)
+- 👈 Projeto Anterior: [Analise dos top 250 Kdramas](https://github.com/phbonamin/EDA_KDramas_Top_250)
 
-- 🔭 Projeto Atual: [Analise dos top 250 Kdramas](https://github.com/phbonamin/EDA_KDramas_Top_250)
+- 🔭 Projeto Atual: [When What the Golden Age Videogames Datacamp](https://github.com/phbonamin/When-What-the-Golden-Age-Videogames-Datacamp)
 
-- 🌱 Estou estudando **Análise de dados(Python e R) e SQL**
+- 🌱 Estou estudando **Análise de dados(Python e R), SQL e Power Bi**
 
 - 📫 Contato: **phbonamin@gmail.com**
 
