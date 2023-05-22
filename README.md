@@ -2,7 +2,7 @@
 
 - 👈 Projeto Anterior: [Analise dos top 250 Kdramas](https://github.com/phbonamin/EDA_KDramas_Top_250)
 
-- 🔭 Projeto Atual: [When What the Golden Age Videogames Datacamp](https://github.com/phbonamin/When-What-the-Golden-Age-Videogames-Datacamp)
+- 🔭 Projeto Atual: [BRFSS SOcial Survey 2021 Analysis](https://github.com/phbonamin/BRFSS-Social-Survey-2021-Analysis)
 
 - 🌱 Estou estudando **Análise de dados(Python e R), SQL e Power Bi**
 
