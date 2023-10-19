@@ -25,7 +25,7 @@ Clique [aqui](https://github.com/phbonamin/EDA_KDramas_Top_250) para acessar! ( 
 <a href = "https://github.com/phbonamin/EDA_KDramas_Top_250" ><img src="https://media.giphy.com/media/Yn3vfps9zK6lL0SNUb/giphy-downsized-large.gif" align="left" height="200" width="200" />  </a>
   
 
-<br/> <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>   
+<br/> <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>   <br/>  <br/>   
 
 
 ## My Skill Set  
