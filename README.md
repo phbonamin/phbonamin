@@ -13,6 +13,19 @@
   
 
 <br/>  
+## Projetos em Destaque  
+
+
+### Top 250 Kdramas  
+O objetivo deste projeto foi analisar um dataset contendo informações sobre os 250 melhores kdramas ,segundo a MyDramaList , a fim de identificar as características mais comuns desses dramas e utilizar essas informações para ajudar dois produtores de kdramas com objetivos diferentes: um que busca criar um dos melhores kdramas já vistos (Hardcore), e outro que busca criar um kdrama que venda bem(Money).
+
+Clique [aqui](https://github.com/phbonamin/EDA_KDramas_Top_250) para acessar! ( Ou no GIF!)  
+  
+
+<img src="https://media.giphy.com/media/Yn3vfps9zK6lL0SNUb/giphy-downsized-large.gif" align="left" height="200" width="200" />  
+  
+
+<br/>  
 
 
 ## My Skill Set  
@@ -78,19 +91,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-
-
-### Top 250 Kdramas  
-O objetivo deste projeto foi analisar um dataset contendo informações sobre os 250 melhores kdramas ,segundo a MyDramaList , a fim de identificar as características mais comuns desses dramas e utilizar essas informações para ajudar dois produtores de kdramas com objetivos diferentes: um que busca criar um dos melhores kdramas já vistos (Hardcore), e outro que busca criar um kdrama que venda bem(Money).
-
-Clique [aqui](https://github.com/phbonamin/EDA_KDramas_Top_250) para acessar! ( Ou no GIF!)  
-  
-
-<img src="https://media.giphy.com/media/Yn3vfps9zK6lL0SNUb/giphy-downsized-large.gif" align="left" height="200" width="200" />  
-  
-
-<br/>  
 
   
 
