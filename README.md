@@ -4,8 +4,7 @@
 
 - 🔭 Projeto Atual: [BRFSS SOcial Survey 2021 Analysis](https://github.com/phbonamin/BRFSS-Social-Survey-2021-Analysis)
 
-- 🌱 Estou estudando **Análise de dados(Python e R), SQL e Power Bi**
-
+- 🌱 Estou estudando: **Machine learning e análise de dados(Python) e SQL**
 - 📫 Contato: **phbonamin@gmail.com**
 
 <h3 align="left">Redes sociais:</h3>
