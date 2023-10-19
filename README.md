@@ -86,7 +86,7 @@ Clique [aqui](https://github.com/phbonamin/EDA_KDramas_Top_250) para acessar! ( 
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=phbonamin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
