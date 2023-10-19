@@ -13,8 +13,8 @@
   
 
 <br/>  
-## Projetos em Destaque  
 
+## Projetos em Destaque  
 
 ### Top 250 Kdramas  
 O objetivo deste projeto foi analisar um dataset contendo informações sobre os 250 melhores kdramas ,segundo a MyDramaList , a fim de identificar as características mais comuns desses dramas e utilizar essas informações para ajudar dois produtores de kdramas com objetivos diferentes: um que busca criar um dos melhores kdramas já vistos (Hardcore), e outro que busca criar um kdrama que venda bem(Money).
