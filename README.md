@@ -22,10 +22,10 @@ O objetivo deste projeto foi analisar um dataset contendo informações sobre os
 Clique [aqui](https://github.com/phbonamin/EDA_KDramas_Top_250) para acessar! ( Ou no GIF!)  
   
 
-<img src="https://media.giphy.com/media/Yn3vfps9zK6lL0SNUb/giphy-downsized-large.gif" align="left" height="200" width="200" />  
+<a href = "https://github.com/phbonamin/EDA_KDramas_Top_250" ><img src="https://media.giphy.com/media/Yn3vfps9zK6lL0SNUb/giphy-downsized-large.gif" align="left" height="200" width="200" />  </a>
   
 
-<br/>  
+<br/> <br/>  <br/>  <br/>  <br/>  <br/>  <br/>  <br/>   
 
 
 ## My Skill Set  
@@ -114,7 +114,6 @@ Clique [aqui](https://github.com/phbonamin/EDA_KDramas_Top_250) para acessar! ( 
 <br/>  
 
 
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
