@@ -10,11 +10,13 @@
 </p>
 </p>
 
-Projetos em destaque:
+<h3>Projetos em destaque:</h3>
 
-<h3> EDA TOP 250 KDRAMAS </h3>
+<h4 aling = "left"> EDA TOP 250 KDRAMAS </h4> 
 <p align = "left">
-<a href="https://github.com/phbonamin/EDA_KDramas_Top_250" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/SWNZIQo9hH0AAAAi/popcorn-drama.gif" alt="Girl with a popcorn watching 3D" width="40" height="40"/> </a> 
+Uma breve EDA sobre os top 250 kdramas! Clique no gif para ir ao projeto.
+⇣
+<a href="https://github.com/phbonamin/EDA_KDramas_Top_250" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/SWNZIQo9hH0AAAAi/popcorn-drama.gif" alt="Girl with a popcorn watching 3D" width="200" height="200"/> </a> 
 </p> 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg" alt="R" width="40" height="40"/> </a>  </p>
